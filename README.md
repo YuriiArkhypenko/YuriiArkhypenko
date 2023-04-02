@@ -1,5 +1,5 @@
 
-<h1 align="center" > Hi, my name is Yurii Arkhypenko </h1> 
+<h1 align="center" > Hi, my name is Yurii </h1> 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=(+Junior+)+Front-End+Developer.)](https://git.io/typing-svg)
