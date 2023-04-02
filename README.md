@@ -11,6 +11,7 @@
  - I like to learn something new, to research, to figure everything out, it allows to develop my skills. And probably it would be wrong not to mention that money and possibility to work remotely also became one of the factors of choosing this profession. <br>
  - Actually now I am studying at Tel Run school, here we study HTML, CSS, JavaScript and React, Git, GitHub, and a few Linux commands. I'm also looking through a lot of other tutorial videos. <br>
  
+ 
  - I am open to new suggestions, or even just to new acquaintances.
 </p>
 
@@ -28,8 +29,7 @@
 
 
 <p  align="center">
- <h1 align="center">Skills</h1>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+ Skills <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
