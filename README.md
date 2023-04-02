@@ -1,5 +1,5 @@
 
- <p align="center"> Hi, my name is Yurii Arkhypenko ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
+ <p align="center" font-size="24px"> Hi, my name is Yurii Arkhypenko </p> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ========================================================================================================================================
 
 <h2 align="center"> ( Junior ) Front-End Developer. </h2>
