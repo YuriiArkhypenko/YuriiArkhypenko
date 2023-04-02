@@ -3,7 +3,7 @@
 
 <h2 align="center"> ( Junior ) Front-End Developer. </h2>
 
-<p align="center"> 
+<p align="left"> 
  - I am a novice Front-End Developer, no experience as I am still learning. <br>
  - Why did I choose Front-End Developer? I like that here I almost immediately see the result of my work, in comparison with the Back-End Developer. I think it's very exciting and promising, because you can do the whole user interface with the Fron-End instruments. And applications and sites like mine will always be needed, everywhere. <br>
  - I try not just to learn (memorize), but I want to understand what is working and how it is working. That is why I read a lot of books, articles and do practice (unfortunately I do not have much time to practice). <br>
@@ -24,10 +24,11 @@
 * 🤝  I'm open to collaborating 
 
 
+ 
+
+
+<p  align="center">
  <h1 align="center">Skills</h1>
-
-
-<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Figma" /></a>
