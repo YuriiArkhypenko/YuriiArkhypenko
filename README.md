@@ -11,13 +11,13 @@
 * 🌍  I'm based in Poland, Gdansk
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/yurii-arkhypenko/)
 * ✉️  You can contact me at [ArkhypenkoUa@gmail.com](mailto:ArkhypenkoUa@gmail.com)
-* 🧠  I'm learning Front-End tools, right now I'm learning JS and algorithms
+* 🧠  I'm learning Front-End tools, right now I'm learning JS and Algorithms
 * 🤝  I'm open to collaborating 
 
 <a href="https://www.github.com/YuriiArkhypenko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YuriiArkhypenko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+  <h1 aling="center">Skills</h1>
 
 
 <p align="center">
