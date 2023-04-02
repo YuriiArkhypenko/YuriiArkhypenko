@@ -1,5 +1,5 @@
 
-<h1 align="center" font-size="24px"> Hi, my name is Yurii Arkhypenko </h1> 
+<h1 align="center"  font-size="240px"> Hi, my name is Yurii Arkhypenko </h1> 
 
 <h2 align="center"> ( Junior ) Front-End Developer. </h2>
 
