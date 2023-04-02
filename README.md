@@ -29,6 +29,7 @@
 <p align="center"> 
  <a href="https://www.facebook.com/ArkhypenkoYurii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
  <a href="https://www.linkedin.com/in/yurii-arkhypenko/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://t.me/YuriiArkhypenko" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a>
 </p>
 
  <h1 align="center">Badges</h1>
