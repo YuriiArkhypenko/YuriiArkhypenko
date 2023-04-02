@@ -1,5 +1,5 @@
 
- <h1 align="center" font-size="24px"> Hi, my name is Yurii Arkhypenko </h1> 
+<h1 align="center" font-size="24px"> Hi, my name is Yurii Arkhypenko </h1> 
 
 <h2 align="center"> ( Junior ) Front-End Developer. </h2>
 
@@ -13,7 +13,7 @@
 * 🤝  I'm open to collaborating 
 
 
-  <h1 align="center">Skills</h1>
+ <h1 align="center">Skills</h1>
 
 
 <p align="center">
@@ -24,7 +24,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
- <h1 align="center">Socials</h1>
+<h1 align="center">Socials</h1>
 
 <p align="center"> 
  <a href="https://t.me/YuriiArkhypenko" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" /></a>
@@ -32,17 +32,11 @@
  <a href="https://www.linkedin.com/in/yurii-arkhypenko/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
- <h1 align="center">Badges</h1>
+<h1 align="center">Badges</h1>
  <table>
   <tr>
     <td>
      <a href="https://github.com/YuriiArkhypenko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiArkhypenko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     </td>
-    <td>
-      
-    </td>
   </tr>
 </table>
-<div text-align="center"
-
-</div>
