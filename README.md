@@ -36,10 +36,10 @@
  <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="angs/?username=YuriiArkhypenko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" />
     </td>
   </tr>
 </table>
