@@ -49,7 +49,7 @@
  <table align="center">
   <tr>
     <td>
-     <a href="https://github.com/YuriiArkhypenko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiArkhypenko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=I'm using%20%Languages" alt="I'm useing Languages" /></a>
+     <a href="https://github.com/YuriiArkhypenko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiArkhypenko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=I'm%20% using%20%Languages" alt="I'm useing Languages" /></a>
     </td>
    <td>
      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuriiarkhypenko&" alt="yuriiarkhypenko" /></p>
