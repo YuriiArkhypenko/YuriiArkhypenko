@@ -1,7 +1,7 @@
 
 <h1 align="center" > Hi, my name is Yurii Arkhypenko </h1> 
 
-<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=(+Junior+)+Front-End+Developer.)](https://git.io/typing-svg) </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=(+Junior+)+Front-End+Developer.)](https://git.io/typing-svg)
 
 <p align="left"> 
  - I am a novice Front-End Developer, no experience as I am still learning. <br>
