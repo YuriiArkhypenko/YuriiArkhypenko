@@ -2,7 +2,7 @@
 <h1 align="center" > Hi, my name is Yurii </h1> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=(+Junior+)+Front-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Front-End+Developer.)](https://git.io/typing-svg)
 
 - I am Front-End Developer, I am work and oll time learning. <br>
 - Why did I choose Front-End Developer? I like that here I almost immediately see the result of my work. Have you seen what you can do there? It's very interesting and that's cool. <br>
