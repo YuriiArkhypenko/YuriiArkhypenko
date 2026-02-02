@@ -10,7 +10,7 @@
 </p>
 
 
-* 🧠🖥️🌍 I to learn and have new possibilities.
+* 🧠🖥️🌍 I learn and have new possibilities.
 * 🌍  I'm based in Poland, Gdansk
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/yurii-arkhypenko/)
 * ✉️  You can contact me at [ArkhypenkoUa@gmail.com](mailto:ArkhypenkoUa@gmail.com)
