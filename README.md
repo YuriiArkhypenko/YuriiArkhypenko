@@ -5,16 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Front-End+Developer.)](https://git.io/typing-svg)
 
 
-- I am Front-End Developer, I am work and oll time learning. <br>
-- Why did I choose Front-End Developer? I like that here I almost immediately see the result of my work. Have you seen what you can do there? It's very interesting and that's cool. <br>
-- I try oll time learn (memorize), but I want to understand what is working and how it is working. That is why I read a lot of and practic .<br>
-- I do like clean and minimal code. I try to write it as well.<br>
-- I like to learn something new, to research, to figure everything out, it allows to develop my skills. And probably it would be wrong not to mention possibility to work remotely also became one of the factors of choosing this profession.<br>
-- I finished Tel Run School, learned HTML, CSS, JavaScript, React, as well as Git, GitHub and a few Linux commands. I am also looking at many different books and tutorial videos. <br>
 
-
-- I am open to new suggestions, or even just to new acquaintances.
- 
 
 </p>
 
@@ -23,9 +14,8 @@
 * 🌍  I'm based in Poland, Gdansk
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/yurii-arkhypenko/)
 * ✉️  You can contact me at [ArkhypenkoUa@gmail.com](mailto:ArkhypenkoUa@gmail.com)
-* 🧠  I'm learning Front-End tools, right now I'm learning JS and Algorithms
-* 🤝  I'm open to collaborating 
-
+* 🧠  
+* 🤝  
 
  
 
